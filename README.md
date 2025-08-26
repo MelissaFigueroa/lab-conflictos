@@ -1,4 +1,5 @@
 # lab-conflictos
 Actividad 7: Resolución de Conflictos y Pull Request 
-Esta línea fue agregada en feature-b
+ HEAD
+Esta línea fue agregada en feature-a y feature-b
 
